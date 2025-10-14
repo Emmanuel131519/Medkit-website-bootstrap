@@ -27,6 +27,41 @@ body{
 main{
 
 }
+
+form h4{
+    font-weight: 600;
+  
+}
+
+main img{
+    width: 100%;
+}
+
+.appointment-form{
+gap: 5rem;
+
+    justify-content: space-between;
+}
+
+main{
+    background-color: rgba(222, 241, 249, 1);
+}
+
+.img-div{
+width: 100%;
+
+}
+
+.form-div{
+width: 100%;
+
+}
+
+.input{
+width:100%;
+border-radius: 30px;
+padding: 1rem;
+}
 @media(max-width:768px){
     .nav-li{
         padding-top: 1.5rem;
