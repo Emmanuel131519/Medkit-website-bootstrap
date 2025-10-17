@@ -85,6 +85,20 @@ width: 40%;
     justify-content: center;
     align-items: center;
 }
+
+footer{
+    background-color: rgba(30, 54, 115, 1);
+}
+.footer-p{
+    width: 70%;
+}
+footer p,h5{
+    color: rgba(255, 255, 255, 1);
+}
+
+footer h5{
+font-weight: 600;
+}
 @media(max-width:768px){
     .nav-li{
         padding-top: 1.5rem;
@@ -105,4 +119,18 @@ main img{
     .main-button{
         padding-bottom: 2rem;
     }
+
+    .footer-div{
+        display: none;
+    }
+
+    .footer-div-1 p{
+width: 100%;
+    }
+
+
+    .footer-div-1{
+
+    }
+
 }
