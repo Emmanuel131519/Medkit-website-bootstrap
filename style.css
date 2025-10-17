@@ -90,7 +90,14 @@ width: 40%;
         padding-top: 1.5rem;
        
     }
+.appointment-form{
+    display: flex;
+    flex-direction: column;
+}
 
+main img{
+    display: none;
+}
     nav ul{
         gap: 0;
     }
